@@ -1,5 +1,10 @@
-# 💫 About Me:
-# 👋 Hi, I'm Abid Hasan Sajid (arabic_sajid)<br><br>🚀 Developer | 🤖 Bot Creator | 🌐 Web Builder | 🧠 AI Enthusiast  <br><br>---<br><br>## 🧑‍💻 About Me<br>Hey! I'm **Abid Hasan Sajid**, also known as **Sensei**.  <br>I love building powerful digital solutions like Discord bots, websites, and AI tools.<br><br>- 💻 I create **Discord Bots, Web Apps & Automation Tools**<br>- ⚡ Focused on clean, fast, and scalable code<br>- 🎯 Passionate about learning new technologies<br>- 🔥 Always working on something new<br><br>---<br><br>## 🛠️ Skills & Technologies<br>- **Languages:** JavaScript, HTML, CSS<br>- **Frameworks & Tools:** Node.js, Discord.js, MongoDB<br>- **Other:** API Integration, Webhooks, UI/UX Design<br><br>---<br><br>## 🤖 Projects<br>Here are some things I work on:<br><br>- ⚙️ Advanced Discord Bots (Slash Commands, Music, Systems)<br>- 💬 Ticket Systems with Database Support<br>- 🛒 Selling Systems (/stock, /payment, etc.)<br>- 🌍 Personal & Business Websites<br><br>---<br><br>## 🌐 Connect With Me<br>![ 💻 Social](https://abidhasansajid.me/)<br><br>---<br><br>## ⚡ Fun Fact<br>> “I don’t just write code — I build experiences.”<br><br>---<br><br>⭐ **Feel free to follow me and check out my repositories!**
+## 👋 About Me
+Developer | Bot Creator | Web Builder
+
+I'm **Abid Dev.** — a developer focused on building powerful Discord bots, modern websites, and smart AI tools.  
+I turn ideas into clean, fast, and impactful digital experiences.
+
+
 
 
 ## 🌐 Socials:
